@@ -1,4 +1,4 @@
-# FreeJun Assignment
+# Workspace Booking API
 
 A simple REST API built using **Django REST Framework** for managing workspace room bookings, cancellations, and availability.
 
