@@ -89,4 +89,3 @@ Once a booking is canceled, the slot becomes available again.
 ---
 **Gandharv Kumar Singh**  
 *Software Developer*  
-*(Assignment for FreJun Backend Challenge)*
